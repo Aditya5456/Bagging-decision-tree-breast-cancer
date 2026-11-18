@@ -49,6 +49,3 @@ Requires scikit-learn 1.2 or newer (uses the `estimator=` argument of `BaggingCl
 
 ## Tech stack
 Python, pandas, NumPy, scikit-learn, seaborn, matplotlib
-
-## Author
-[GitHub](https://github.com) · [LinkedIn](https://www.linkedin.com)
